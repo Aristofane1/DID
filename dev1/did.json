@@ -6,7 +6,7 @@
   "id": "did:web:aristofane1.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkha7f6DbANGt3Nu5SBepFpB4Ex2V7iAR3bFgrH4uv6TkH",
+      "publicKeyMultibase": "z6MkiVkMWnFoWaJbneNmzJPaNzdgMHqyn5dGpLxZmGDuQ6AV",
       "controller": "did:web:aristofane1.github.io:DID:dev1",
       "id": "did:web:aristofane1.github.io:DID:dev1#-uMLAIeis7vXnacE-_FaWr95trxVxnrNiPqGssixoN0",
       "type": "Ed25519VerificationKey2020",
